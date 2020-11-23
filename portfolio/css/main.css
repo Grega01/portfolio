@@ -1,0 +1,97 @@
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: salmon;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+img
+{
+	max-height: 100%;
+	max-width: 100%;
+	margin:50px;	
+}
+div{
+	font-family: comic sans;
+	margin: 10px;
+}
+h2{
+	font-size: 25px;
+	font-family: Verdana;
+	margin: 25px;
+}
+
+
+.bemut1{
+	background-color: brown;
+	border: 2px solid black;
+	padding: 12px  64px;
+	margin: 16px 64px;
+	width: 100%;
+	height: 100%;
+	font-size: 64px;
+	font-family: Impact;
+	
+}
+.bemut2{
+	font-size: 25px;
+	font-family: Cursive;
+}
+
+.munkaterv{
+	font-size: 20px;
+	font-family: Cursive;
+}
+
+h1{
+color:brown;
+margin: 35px;
+font-family: Verdana;
+font-size: 30px
+bold;
+}
+
+
+li{
+	Color: solid black;
+	font-family: Verdana;
+}
+
+.er{
+	Color: solid black;
+	font-family: fantasy;
+	font-size: 25px;
+}
+
+.table{
+	border:2px solid black;
+	text-align: center;
+}
+
+
+
+
